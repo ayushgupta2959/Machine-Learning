@@ -1,2 +1,3 @@
 # Machine-Learning
-Exercises and Projects of ML coursera course by Andrew Ng
+Coursera ML Course by Andrew Ng
+Exercises and Projects 
